@@ -1,4 +1,4 @@
-# Blockchain_Data_Structure_in_c++
+# Blockchain_in_cpp
 *Implemented a blockchain DataStructure in c++, as block class and blockchain class.
 
 *Includes generating hash for each block.
